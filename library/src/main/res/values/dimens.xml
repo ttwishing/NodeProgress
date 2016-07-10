@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nodeprogress_text_size_default">14sp</dimen>
+    <dimen name="nodeprogress_line_height_default">2dip</dimen>
+</resources>

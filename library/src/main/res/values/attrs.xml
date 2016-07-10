@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NodeProgress">
+        <attr name="node_values" format="reference" />
+        <attr name="node_index" format="integer" />
+    </declare-styleable>
+</resources>

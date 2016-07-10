@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="node_titles">
+        <item>step1</item>
+        <item>step2</item>
+        <item>step3</item>
+        <item>step4</item>
+        <item>step5</item>
+        <item>step6</item>
+        <item>step7</item>
+    </string-array>
+</resources>
